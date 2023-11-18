@@ -1,0 +1,23 @@
+body {
+    color: aliceblue;
+    font-family: Nabla,cursive;
+    background-size: cover;
+}
+#line {
+    background-color: orangered;
+    height: 7px;
+    width: 90px;
+    margin: 8px auto;
+}
+#games img {
+width:400px;
+height:400px;
+border-radius:30px;
+}
+#myCarousel {
+    background-color: aqua;
+}
+.carousel-inner p {
+    margin-top:15px;
+    font-size: 20px;
+}
